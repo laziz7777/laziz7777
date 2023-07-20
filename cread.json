@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "al-laziwater",
+  "private_key_id": "cf39d5b67c11a70597959ead2d40dc8fca9452ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCt2e0i3af1n0Ok\n7nO3ja53BfbBF7IrpQwrMpdm6x9Oj9g8JnDBex0H68NNmkp2Q9cRQUF8aJtGVzUm\nbud1pfr5o7/NsrHyNCtu2RtRrCV7d1X3ja0ENBN4Z4CE3Jo5HEvP/JmHfoXeEj5i\n5ird9ftUoUbE5oas/wMkkpd4503cCfQo910LuiEUL/zMtpUr6NJahknX17BKVtJ7\nsd2nq/e9xJTQ4w1GIrJRXoTyl1yAulafHSyYRtUR2A9kONRLl6H6xG0qmse5Letu\nokp//u/oS5L/VFRpFXYB0lC9mkmlN5K5VDAdkpr2E4AOd2vuoJ3/CJAKbj2zIfJH\nOKCGJOtrAgMBAAECggEASV4aQugLLU+govaUtCZhNc65A2UmJmAZYhOQLHlWdXek\nGEJavHRh3IllGxddjEp19Uy2P7P/r3A3OHh+SrqYz4iI9dyPVzkoCTgrXMzK5q+G\ngpnyJb96Zgo8BRX6KdbksaoW+sTs5rqJRICBH7ni7qS/MnJc7J4UK/eHYBkxVQXW\nONFo9rsiyNaGjhpsoVTTDJFt9SzNDuzRHAzH95/x3RhUvL/fSen0ENeqmWosvCxV\nsUN5sjRy4jXy0K0a8Cxia6uAg47TtFSCAd3yfS9IT/M9XruCqwkZ24niU0NZeSBD\nAkRFC9I6NLCD+0zaUEBzRewEeBrGAeqHrEmPnsUWYQKBgQDY2RNI+V0WljyWXdTn\nQjGA2LoF/w91GuLKq2DTcQ0ZbeOUbdmlylT7G56+Wqmc+KGVOhdQfCk4asZxgAlq\nvHXnZeWqs9W7rIFl52wXhObWtc095k83k5MAjb0KLw3HPYYm9+R5jh6B6FA2UA6h\nFkOwj7+cL+Y142bqXpkPBJzFiwKBgQDNPYCkcl3Xa/yKn4p8JAG0uoKWHlWl5Yfd\nsMg4k/NPzOmwnNN3/TqlYUhu2+XvRXFqgcQebr5L8Ck3A3UlhjvSI0MCsPpgz4Mt\nGyNedcWNgJm1fHWJsu+HXzaJ4SrA9mV/JsYjjMMX94l1iTdYaBuCiZVbnPeJltQY\ndKNKSWHtoQKBgQC6Ha5Ars4nybCculI2XojQdrNK3DyvHPFUU71aHSjKD5gJ2DK6\n6isADxezd2smb/t3chF6oeZbJsHFvsfWVYS4o6t4VLt4RboV9Ye/s/DQjd9nZlnN\ncJr2GbELoZEo1XRj09XEQqeKhhL6WsIDnnFghDBH5JCo5dF6DNE/o4zOuwKBgBRO\nRW//sLEjifTdHAJ0PYb3/PuFPMwRDYQtfWG7oZL/nw9ONM3mS+sY2OW+89zcbgAv\nnou0QTeaJzm+KdTwlvKPco3NnLf/T+cijDlIRadeVdbS3X4mKfSmwuqZUHWO6zPN\nTkUuJA82+m6aiNNCWZZsrk5GFWeTeKCCybUL1ZiBAoGBAMB4vi/sULcdjriiJXXb\nqWiXxR7uUvs6NWyRjGC1rMzqC56tuYY02u42PT33JCMGrhQqO1u73En7siGL8BOB\nAWECPs1QCiQYvNqH/Mm9o6bPBoheEyHxfVpxGGGLOHbh/QJQ7OItvKBdiND+vO1W\nmmIBsThQMLB6WdKjFCR2jb2a\n-----END PRIVATE KEY-----\n",
+  "client_email": "allazi@al-laziwater.iam.gserviceaccount.com",
+  "client_id": "106358962602717801099",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/allazi%40al-laziwater.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
